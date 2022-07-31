@@ -1,7 +1,7 @@
 import React from 'react';
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
 import { Redirect } from 'react-router-dom';
-import Welcome from './Welcome';
+
 
 class Login extends React.Component {
   constructor(props){

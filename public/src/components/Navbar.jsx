@@ -7,12 +7,9 @@ const Navbar = () => {
             <Link to='/'>
                 <h1>Porfolio Manager</h1>
             </Link>
-            <Link to='/'><button>Login</button>
-            </Link>
-            <Link to='/'><button>Register</button>
-            </Link>
-            <Link to='/'><button>Watchlist</button>
-            </Link>
+            <Link to='/'>Login</Link>
+            <Link to='/'>Register</Link>
+            <Link to='/'>Watchlist</Link>
 
         </Nav>
     )
