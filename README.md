@@ -1,13 +1,13 @@
 # Portfolio-Manager
 
 ***WORK IN PROGRESS***\
-Course Project for CPSC 362\
+Course Project for CPSC 362
 
-Jesus Czares\
+Jesus Czares
 
-Alexander Chea\
+Alexander Chea
 
-Ronald Ho\
+Ronald Ho
 
 Node.js project that employs Yahoo Finance API for a stock portfolio management system
 
